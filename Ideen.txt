@@ -1,0 +1,40 @@
+Use Case:
+
+-Taschenlampe zum Ausleuchten
+
+-Neues Level mit Modell in Groß --> im Modell
+
+-Bedienpanel wie bei VR Home
+
+-Zusammenbauen lernen - Simulation:
+	- Lernumgebung
+	- Reihenfolge auf Monitor (Ikea Anleitung)
+		- Wie rum
+		- Welche Typen
+	
+-Messungen (Wie in Video):
+ 	- Checkliste (Ablauf) - Smartwatch?
+		- Bremse (checken)
+		- Wasser einlassen
+		- Temperatur (Riesenthermometer)
+
+--------------
+Für Techniker
+Ablauf für Arzt
+--------------			
+
+-Optionen
+-3D Display
+
+
+
+
+
+
+Schriftlicher Teil:
+Gantt
+Softwarequalität
+
+Vorteile/Nachteile zu Lehrfilm
+
+Vision / Ausblick --> nicht alles implementieren
