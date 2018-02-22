@@ -1,6 +1,8 @@
 Use Case:
 
--Taschenlampe zum Ausleuchten
+-x Taschenlampe zum Ausleuchten 
+  (noch bessere Mesh / Wenn an Reflexion an Lampe)
+  Tastenbelegung noch ändern
 
 -Neues Level mit Modell in Groß --> im Modell
 
@@ -11,6 +13,7 @@ Use Case:
 	- Reihenfolge auf Monitor (Ikea Anleitung)
 		- Wie rum
 		- Welche Typen
+-Teile verschieben/Explode
 	
 -Messungen (Wie in Video):
  	- Checkliste (Ablauf) - Smartwatch?
@@ -21,19 +24,33 @@ Use Case:
 --------------
 Für Techniker
 Ablauf für Arzt
---------------			
+--------------	
+		
+-Animation noch fertig (läuft auf Liege zu)
+-Animation Welle fertig
 
 -Optionen
 -3D Display
 
+----------------------------------------------
+Menü:
+Tutorial zur Bedienung der VR Umgebung
+	Startet immer, mit Skip-Button
+
+Tutorial Ablauf für Ärzte
+
+Restart
+Optionen
+Quit
 
 
-
-
+-Strahl nur wenn Hand auf Menü zeigt
+------------------------
 
 Schriftlicher Teil:
 Gantt
 Softwarequalität
+
 
 Vorteile/Nachteile zu Lehrfilm
 
