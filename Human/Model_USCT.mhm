@@ -1,13 +1,16 @@
 # Written by MakeHuman 1.1.1
 version v1.1.1
 tags Model_USCT
-camera 19.5 346.0 -1.0 1.0 0.83386394572 1.075
+camera 3.5 4.0 0.228746866047 -0.851391625835 -0.22884292885 0.25
 modifier breast/breast-trans-down|up 0.792000
 modifier macrodetails-universal/Muscle 0.341000
 modifier macrodetails/African 0.000000
+modifier hip/hip-scale-depth-decr|incr -0.116000
 modifier macrodetails-proportions/BodyProportions 0.555000
 modifier breast/nipple-point-decr|incr -0.242000
+modifier hip/hip-trans-in|out -0.088000
 modifier macrodetails/Gender 0.104000
+modifier pelvis/bulge-decr|incr -0.252000
 modifier macrodetails-height/Height 0.588000
 modifier breast/BreastSize 0.747000
 modifier macrodetails/Age 0.610000
@@ -15,23 +18,26 @@ modifier breast/BreastFirmness 0.302000
 modifier macrodetails/Asian 0.000000
 modifier breast/breast-point-decr|incr -0.230000
 modifier macrodetails/Caucasian 1.000000
+modifier hip/hip-scale-horiz-decr|incr -0.184000
 modifier breast/nipple-size-decr|incr 0.550000
+modifier buttocks/buttocks-volume-decr|incr 0.402000
 modifier breast/breast-dist-decr|incr -0.208000
 modifier macrodetails-universal/Weight 0.505000
 modifier breast/breast-volume-vert-down|up -0.384000
+modifier pelvis/pelvis-tone-decr|incr -0.088000
 tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
 teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
 proxy female_generic 84b1a384-1af0-4126-9030-222edb78b318
-hair Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e
+hair ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde
 eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
 skeleton game_engine.mhskel
 eyebrows eyebrow006 bb953a1a-db43-44db-a0ad-ed8a5d6000c9
 eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
-pose standing04.bvh
-clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
-clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothes Pants_Wool 369ef5bd-5a8a-4665-8931-d3fc3eaac560
+clothes RunningShoes e57655db-9408-43ed-a795-971c115219fe
+clothes Knitted_Sweater_02 810b9ffa-474f-4d16-af01-0de97bb1ac62
 clothesHideFaces True
 skinMaterial skins/middleage_caucasian_female/middleage_caucasian_female.mhmat
-material Braid01 eead6f99-d6c6-4f6b-b6c2-210459d7a62e braid01.mhmat
+material ponytail01 44e0340e-c7a6-4d22-814c-0632968d2dde ponytail01.mhmat
 material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
 subdivide False
