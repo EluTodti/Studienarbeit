@@ -21,6 +21,10 @@ Use Case:
 		- Wasser einlassen
 		- Temperatur (Riesenthermometer)
 
+
+-----------------------
+Story für Untersuchung ausdenken
+	--> Etablierung des Verfahrens
 --------------
 Für Techniker
 Ablauf für Arzt
