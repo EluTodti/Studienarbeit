@@ -1,0 +1,36 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Model_doc
+camera 11.5 1.5 -0.104318981924 0.527201582324 0.0669259098975 1.5875
+modifier breast/breast-trans-down|up 1.000000
+modifier stomach/stomach-tone-decr|incr -0.134000
+modifier macrodetails-universal/Muscle 0.297000
+modifier macrodetails/African 0.352000
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 0.929000
+modifier macrodetails-height/Height 0.555000
+modifier breast/BreastSize 0.394000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.440000
+modifier macrodetails/Asian 0.333506
+modifier macrodetails/Caucasian 0.314494
+modifier buttocks/buttocks-volume-decr|incr -0.490000
+modifier macrodetails-universal/Weight 0.574000
+modifier breast/breast-volume-vert-down|up -0.122000
+modifier stomach/stomach-pregnant-decr|incr -1.000000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+hair short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8
+eyelashes Eyelashes01 d533836f-13ad-4836-8b65-051108253cd2
+skeleton uengine.mhskel
+eyebrows eyebrow012 1c16325c-7831-4166-831a-05c5b609c219
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes Harvey_fscrubbottoms2 f7b6d3fa-c6f4-4154-9d3c-79c8d633f2ea
+clothes Harvey_fscrubtop2 93977729-e9b6-4629-971e-d88028ab20c6
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothesHideFaces True
+skinMaterial skins/young_caucasian_male/young_caucasian_male2.mhmat
+material short04 e09bfd91-f83f-4f9a-ba8c-4635cd1ae0d8 short04.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brownlight.mhmat
+subdivide False
